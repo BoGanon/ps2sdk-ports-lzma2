@@ -1,0 +1,9 @@
+Package: ps2sdk-ports-lzma2
+Priority: extra
+Section: devel
+Installed-Size: 100
+Maintainer: ragnarok2040
+Architecture: all 
+Version: 1.0
+Depends: cross-ps2-dev (>= 1.0), cross-ps2-ps2sdk (>= 1.0)
+Description: This is a port of xz-embedded for ps2sdk.
